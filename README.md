@@ -8,7 +8,7 @@ ProjectName and Description
 
 <p align="center">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+</p>
 
   <h3 align="center">FrontEnd——Xmind</h3>
 
