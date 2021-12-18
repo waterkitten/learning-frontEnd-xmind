@@ -7,7 +7,7 @@ ProjectName and Description
 <!-- PROJECT LOGO -->
 
 <p align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/images/logo.png" alt="Logo" width="80" height="80">
 </p>
 
   <h3 align="center">FrontEnd——Xmind</h3>
